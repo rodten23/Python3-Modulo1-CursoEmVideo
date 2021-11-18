@@ -22,9 +22,9 @@ print(frase[15:]) # Vai do índice informado até o final da string.
 
 print(frase[9::3])
 
-print(len(frase)) # Len de length (comprimento em Inglês), função que retorna tamanto da string.
+print(len(frase)) # Len de length (comprimento em Inglês), função que retorna tamanho da string.
 
-print(frase.count('o')) # O método .count, conta quantas vezes temos a string infomada dentro da string principal.
+print(frase.count('o')) # O método .count, conta quantas vezes temos a string informada dentro da string principal.
 
 print(frase.count('o', 0, 13)) # Agora, a contagem será feita apenas dentro do range informado.
 frase2 = 'A casa do sabido é um salão.'
