@@ -8,4 +8,4 @@ c = int(num) // 100 % 10
 m = int(num) // 1000 % 10
 print('O número digitado foi: {}'.format(num))
 print('Ele é composto de\n{} unidade(s)\n{} dezena(s)\n{} centena(s)\n{} milhar(es)'.format(u, d, c, m))
-#print('Ele é composto de\n{} unidade(s)\n{} dezena(s)\n{} centena(s)\n{} milhar(es)'.format(num[-1], num[-2], num[-3:1], num[-4:0]))
+#print('Ele é composto de\n{} unidade(s)\n{} dezena(s)\n{} centena(s)\n{} milhar(es)'.format(num[-1], num[-2], num[-3:1], num[-4:0]))  Esse aqui funciona parcialmente.
